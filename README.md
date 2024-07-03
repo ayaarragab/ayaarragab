@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+Junior computer science student majoring in Information Systems. Profient in Python, PHP, C and JavaScript.
 ###
 
 <h2 align="left">I code with</h2>
