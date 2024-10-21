@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-Junior computer science student majoring in Information Systems. Proficient in Python, PHP, C, and JavaScript.
+Junior computer science student majoring in Computer Science. Proficient in Python, PHP, C, and JavaScript.
 ALX'24
 ###
 
