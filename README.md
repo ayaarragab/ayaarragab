@@ -9,8 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-Junior computer science student Proficient in Python, PHP, C, and JavaScript.
-ALX'24
+Computer science & ALX SE student, proficient in Python, PHP, C, and JavaScript.
 ###
 
 <h2 align="left">I code with</h2>
