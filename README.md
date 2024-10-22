@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aya Ragab and I'm a software engineer, from Egypt</p>
+<p align="left">My name is Aya Ragab and I'm a software engineer from Egypt</p>
 
 ###
 
