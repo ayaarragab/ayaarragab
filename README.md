@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-Computer science & ALX SE student, mainly working with node.js (Express.js)
+Computer science & ALX SE student. I'm mainly working with node.js (Express.js)
 ###
 
 <h2 align="left">I code with</h2>
