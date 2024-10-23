@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-Computer science & ALX SE student. I'm mainly working with node.js (Express.js)
+I'm Aya Ragab, a junior computer science student in Helwan University. In my first year of the college, I enrolled in the ALX Africa 14-months software engineering program, which became my gateway to the passion I have now in Web Development. However, it didn't make me neglect strengthening my computer science fundamentals —whether the in the academic or practical aspects; I'm deeply engaged in the computer science academic aspects which is why I study hard for my faculty courses and maintain a high CGPA. Additionally in the practical side, I'm always eager to strengthen my problem-solving skills and web development fundamentals. I dislike the superficial understanding, so I strive to dive deeper while staying practical at the same time.
 ###
 
 <h2 align="left">I code with</h2>
