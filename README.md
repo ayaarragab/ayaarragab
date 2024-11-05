@@ -1,48 +1,93 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🌟 Aya Ragab | Software Engineer & Problem Solver
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayaragab/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ayaarragab)
 
-<p align="left">My name is Aya Ragab and I'm a software engineer from Egypt.</p>
+---
 
-###
+Hello! I'm Aya, a passionate software engineer and a graduating student of the **ALX Software Engineering Program**. My journey into software engineering began here, where I discovered my love for solving **real-world problems** and building practical solutions that make a difference. I believe in hands-on experience and am always seeking opportunities to expand my technical knowledge and create impactful software.
 
-<h2 align="left">About me</h2>
+## 👩‍💻 About Me
+- 💼 **Currently Graduating** from ALX Software Engineering Program
+- 🧑‍🎓 **Computer Science Student** at Helwan University
+- 🌐 Based in Cairo, Egypt
+- ✨ Focused on **backend development**, enhancing **problem-solving** skills, and making software that matters.
 
-###
-I'm Aya Ragab, a junior computer science student in Helwan University. In my first year of the college, I enrolled in the ALX Africa 14-months software engineering program, which became my gateway to the passion I have now in Web Development. However, it didn't make me neglect strengthening my computer science fundamentals —whether the in the academic or practical aspects; I'm deeply engaged in the computer science academic aspects which is why I study hard for my faculty courses and maintain a high CGPA. Additionally in the practical side, I'm always eager to strengthen my problem-solving skills and web development fundamentals. I dislike the superficial understanding, so I strive to dive deeper while staying practical at the same time.
-###
+---
 
-<h2 align="left">I code with</h2>
+## 💼 Professional Experience
 
-###
+### Backend Developer  
+**Bugs and Glitches**  
+_Remote, Amravati, India_ | **Nov 2024 – Present**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
+- Collaborating with frontend developers to integrate user-facing elements
+- Building RESTful APIs and scalable backend solutions using Node.js
+- Managing databases and ensuring efficient data handling and retrieval
+- Assisting in deployment processes and ensuring seamless application operations
+- Troubleshooting, debugging, and optimizing backend functionality
+
+---
+
+## 🛠️ Technical Skills
+
+| **Languages**            | C, Python, JavaScript, PHP, HTML/CSS/Bootstrap           |
+|--------------------------|-----------------------------------------------------|
+| **Frameworks & Libraries** | Node.js, Express.js                               |
+| **Databases**            | MySQL, MongoDB, SQLite                              |
+| **Currently Learning**   | TypeScript                                          |
+
+---
+
+## 💼 Projects
+
+Here's a selection of my **most significant projects**:
+
+### [MindReveal](https://github.com/alx-se-projects-ayaragab/MindReveal)
+- **Role**: Backend Developer
+- **Description**: A WhatsApp-style organizational app API designed to help users store and categorize thoughts.
+- **Technologies**: Node.js, Express.js, MongoDB, JWT for authentication.
+- **Features**: Includes user authentication, CRUD operations, and a unique voice-note feature for thoughts storage.
+
+### [Winku Knowledge Market Platform](https://github.com/alx-se-projects-ayaragab/Winku)
+- **Role**: Full Stack Developer
+- **Description**: A knowledge-sharing platform inspired by Quora and StackOverflow, where users can exchange expertise.
+- **Technologies**: HTML, CSS, BootStrap ,JavaScript, PHP, MySQL.
+- **Features**: Basic user authentication, Q&A mechanism, knowledge sharing.
+
+### Simple Shell
+- **Role**: Developer
+- **Description**: A custom UNIX shell developed from scratch, capable of handling basic shell commands.
+- **Technologies**: C programming language.
+- **Skills Gained**: Memory management, process handling, and command parsing.
+
+---
+
+## 📈 GitHub Stats
+
+![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaarragab&show_icons=true&theme=radical)
+
+---
+
+## 📝 Featured Repositories
+
+- 🔥 **[MindReveal](https://github.com/ayaarragab/MindReveal-API)** - Helping people organize their thoughts seamlessly
+- 📚 **[Winku Knowledge Market Platform](https://github.com/ayaarragab/Winku)** - A hub for knowledge exchange
+
+---
+
+## 🚀 What Drives Me
+
+I'm inspired by the potential of software to **solve real-world problems** and am dedicated to continuous learning. My hands-on approach and experience through the ALX program have equipped me with a strong foundation in software development and a desire to always push the boundaries of what I know.
+
+---
+
+## 📫 Let's Connect
+
+- **Email**: aya@example.com
+- **LinkedIn**: [Aya Ragab](https://www.linkedin.com/in/ayaragab/)
+
+---
+
+I am actively looking for opportunities to collaborate on impactful projects and continue to grow in my career. Feel free to reach out!
 
 
-###
