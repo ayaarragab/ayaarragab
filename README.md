@@ -14,27 +14,13 @@ Hello! I'm Aya, a passionate software engineer and a graduating student of the *
 
 ---
 
-## 💼 Professional Experience
-
-### Backend Developer  
-**Bugs and Glitches**  
-_Remote, Amravati, India_ | **Nov 2024 – Present**
-
-- Collaborating with frontend developers to integrate user-facing elements
-- Building RESTful APIs and scalable backend solutions using Node.js
-- Managing databases and ensuring efficient data handling and retrieval
-- Assisting in deployment processes and ensuring seamless application operations
-- Troubleshooting, debugging, and optimizing backend functionality
-
----
-
 ## 🛠️ Technical Skills
 
-| **Languages**            | C, Python, JavaScript, PHP, HTML/CSS/Bootstrap           |
-|--------------------------|-----------------------------------------------------|
+| **Languages**            | C, Python, JavaScript, PHP    |
+|  **Web Development** |  HTML/CSS/Bootstrap  |
 | **Frameworks & Libraries** | Node.js, Express.js                               |
 | **Databases**            | MySQL, MongoDB, SQLite                              |
-| **Currently Learning**   | TypeScript                                          |
+| **Tools**   | Git, GitHub, VScode, Ubuntu, Vim, MongoDBCompass                                         |
 
 ---
 
@@ -42,36 +28,35 @@ _Remote, Amravati, India_ | **Nov 2024 – Present**
 
 Here's a selection of my **most significant projects**:
 
-### [MindReveal](https://github.com/alx-se-projects-ayaragab/MindReveal)
+### [LinkedInSaves](https://github.com/ayaarragab/linkedin-saves-extension)
+- **Role**: Software Developer
+- **Description**: A browser extension to organize and categorize your LinkedIn saved posts for better productivity and quick access.
+- **Technologies**: JavaScript.
+- **Features**: Categorize Content as saved posts are grouped into custom categories for better organization and offline access, as data stored locally for faster performance.
+
+### [MindReveal](https://github.com/ayaarragab/MindReveal-API)
 - **Role**: Backend Developer
-- **Description**: A WhatsApp-style organizational app API designed to help users store and categorize thoughts.
+- **Description**: MindReveal API helps users organize their inner thoughts effortlessly, Where you transform complex ideas into structured insights.
 - **Technologies**: Node.js, Express.js, MongoDB, JWT for authentication.
 - **Features**: Includes user authentication, CRUD operations, and a unique voice-note feature for thoughts storage.
 
-### [Winku Knowledge Market Platform](https://github.com/alx-se-projects-ayaragab/Winku)
+### [Winku Knowledge Market Platform](https://github.com/ayaarragab/Winku-knowledge-market)
 - **Role**: Full Stack Developer
 - **Description**: A knowledge-sharing platform inspired by Quora and StackOverflow, where users can exchange expertise.
 - **Technologies**: HTML, CSS, BootStrap ,JavaScript, PHP, MySQL.
 - **Features**: Basic user authentication, Q&A mechanism, knowledge sharing.
 
-### Simple Shell
+### [Simple Shell](https://github.com/ayaarragab/simple_shell)
 - **Role**: Developer
 - **Description**: A custom UNIX shell developed from scratch, capable of handling basic shell commands.
 - **Technologies**: C programming language.
 - **Skills Gained**: Memory management, process handling, and command parsing.
 
 ---
-
-## 📈 GitHub Stats
-
-![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaarragab&show_icons=true&theme=radical)
-
----
-
 ## 📝 Featured Repositories
 
-- 🔥 **[MindReveal](https://github.com/ayaarragab/MindReveal-API)** - Helping people organize their thoughts seamlessly
-- 📚 **[Winku Knowledge Market Platform](https://github.com/ayaarragab/Winku)** - A hub for knowledge exchange
+- 🔥 **[MindReveal](https://github.com/ayaarragab/MindReveal-API)**
+- 📚 **[LinkedInSaves Browser Extension](https://github.com/ayaarragab/linkedin-saves-extension)**
 
 ---
 
