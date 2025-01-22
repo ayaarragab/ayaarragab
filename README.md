@@ -7,7 +7,7 @@
 Hello! I'm Aya, a passionate software engineer and a graduating student of the **ALX Software Engineering Program**. My journey into software engineering began here, where I discovered my love for solving **real-world problems** and building practical solutions that make a difference. I believe in hands-on experience and am always seeking opportunities to expand my technical knowledge and create impactful software.
 
 ## 👩‍💻 About Me
-- 💼 **Currently Graduating** from ALX Software Engineering Program
+- 💼 **Alumni** from ALX Software Engineering Program
 - 🧑‍🎓 **Computer Science Student** at Helwan University
 - 🌐 Based in Cairo, Egypt
 - ✨ Focused on **backend development**, enhancing **problem-solving** skills, and making software that matters.
