@@ -16,11 +16,13 @@ Hello! I'm Aya, a passionate software engineer and a graduating student of the *
 
 ## 🛠️ Technical Skills
 
-| **Languages**            | C, Python, JavaScript, PHP    |
-|  **Web Development** |  HTML/CSS/Bootstrap  |
-| **Frameworks & Libraries** | Node.js, Express.js                               |
-| **Databases**            | MySQL, MongoDB, SQLite                              |
-| **Tools**   | Git, GitHub, VScode, Ubuntu, Vim, MongoDBCompass                                         |
+| **Category**              | **Skills I Have**                                  |
+|---------------------------|---------------------------------------------------|
+| **Languages**             | C, Python, JavaScript, PHP                        |
+| **Web Development**       | HTML, CSS, Bootstrap                              |
+| **Frameworks & Libraries**| Node.js, Express.js                               |
+| **Databases**             | MySQL, MongoDB, SQLite                            |
+| **Tools**                 | Git, GitHub, VS Code, Ubuntu, Vim, MongoDB Compass|
 
 ---
 
