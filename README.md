@@ -70,7 +70,7 @@ I'm inspired by the potential of software to **solve real-world problems** and a
 
 ## 📫 Let's Connect
 
-- **Email**: ayarsk4343@gmail.com
+- **Email**: AyaRagabSaleh@outlook.com
 - **LinkedIn**: [Aya Ragab](https://www.linkedin.com/in/ayaragab/)
 
 ---
