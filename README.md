@@ -12,7 +12,7 @@ I thrive in **hands-on, project-based environments**, combining problem-solving,
 
 - 🎓 **Computer Science & AI Student** at Helwan University (CGPA: 3.5 / 4.0)  
 - 🎓 **Alumni** of ALX Africa Software Engineering Program  
-- 💼 Internship at **Kanbro Corporation** – focused on ERP scalability & backend optimization  
+- 💼 Ex-intern at **Kanbro Corporation** – focused on ERP scalability & backend optimization  
 - 🌍 Based in Cairo, Egypt
 
 ---
