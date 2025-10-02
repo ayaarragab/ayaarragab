@@ -1,80 +1,78 @@
 # 🌟 Aya Ragab | Software Engineer & Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayaragab/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ayaarragab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayaragab/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ayaarragab) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/ayaragab/)
 
 ---
-
-Hello! I'm Aya, a passionate software engineer and a graduating student of the **ALX Software Engineering Program**. My journey into software engineering began here, where I discovered my love for solving **real-world problems** and building practical solutions that make a difference. I believe in hands-on experience and am always seeking opportunities to expand my technical knowledge and create impactful software.
 
 ## 👩‍💻 About Me
-- 💼 **Alumni** from ALX Software Engineering Program
-- 🧑‍🎓 **Computer Science Student** at Helwan University
-- 🌐 Based in Cairo, Egypt
-- ✨ Focused on **backend development**, enhancing **problem-solving** skills, and making software that matters.
+Passionate software engineer with strong fundamentals in **backend web development**, proficient in **JavaScript, Node.js**, and skilled in solving complex problems.  
+I thrive in **hands-on, project-based environments**, combining problem-solving, clean coding, and teamwork to build **scalable, real-world solutions**.  
+
+- 🎓 **Computer Science & AI Student** at Helwan University (CGPA: 3.5 / 4.0)  
+- 🎓 **Alumni** of ALX Africa Software Engineering Program  
+- 💼 Internship at **Kanbro Corporation** – focused on ERP scalability & backend optimization  
+- 🌍 Based in Cairo, Egypt
 
 ---
 
+## 💼 Experience
+
+### **Software Developer – Kanbro Corporation**  
+*06/2025 – 09/2025 | Karnataka, India* (Internship)  
+
+- Scaled ERP system to support multi-branch operations with **role-based access control**.  
+- Improved backend performance by **50%**, reduced **P95 latency by 52%**, and cut max latency by **90%+**.  
+- Conducted **load testing** with Grafana v6.  
+- Built ERP Finance module: **Excel import/export for fee arrears & transactions** with discount automation.  
+- Developed **file management module** with BullMQ compression pipelines, reducing storage usage.  
+
+---
+
+## 🚀 Projects
+
+### [ERP System – School Management Platform](#) *(Internship Project)*  
+- Refactored MERN-based ERP codebase (70+ files), improved scalability and reduced redundancy.  
+- Automated ERP monitoring with **Cron jobs**, ensuring 100% daily consistency.  
+
+### [LinkedInSaves](https://github.com/ayaarragab/linkedin-saves-extension)  
+- **Role**: Software Developer  
+- Browser extension for **organizing LinkedIn saved posts** with custom categories & offline access.  
+- Published on **Firefox Add-ons Store** [🔗](https://addons.mozilla.org/en-US/firefox/addon/linkedinsaves/).  
+---
+
+---
 ## 🛠️ Technical Skills
 
-| **Category**              | **Skills I Have**                                  |
-|---------------------------|---------------------------------------------------|
-| **Languages**             | C, Python, JavaScript, PHP                        |
-| **Web Development**       | HTML, CSS, Bootstrap                              |
-| **Frameworks & Libraries**| Node.js, Express.js                               |
-| **Databases**             | MySQL, MongoDB, SQLite                            |
-| **Tools**                 | Git, GitHub, VS Code, Ubuntu, Vim, MongoDB Compass|
+| **Category**              | **Skills** |
+|---------------------------|------------|
+| **Languages**             | C, Python, JavaScript, PHP |
+| **Backend Development**   | Node.js, Express.js, RESTful APIs, Flask |
+| **Frontend Basics**       | React, Tailwind, HTML, CSS, Bootstrap |
+| **Databases**             | MySQL, MongoDB, SQLite, SQL Server, Oracle SQL |
+| **Tools & DevOps**        | Git, GitHub, VS Code, Ubuntu, Bash/Shell, Debugging, OOP, Unit Testing |
+| **Other Skills**          | Problem-Solving, Troubleshooting, System Design Basics |
+
+---
+## 🎓 Education
+
+- **BSc. Computer Science & Artificial Intelligence**, Helwan University (2022 – 2026)  
+  - Relevant Courses: Data Structures, Algorithms, OOP, Databases, Distributed Systems, Cloud Computing (AWS).  
+- **ALX Africa – Software Engineering Programme** (2023 – 2024)  
+  - Full-Stack Web Development, project-based curriculum, debugging, code reviews, peer learning.  
 
 ---
 
-## 💼 Projects
+## 📫 Connect with Me
 
-Here's a selection of my **most significant projects**:
-
-### [LinkedInSaves](https://github.com/ayaarragab/linkedin-saves-extension)
-- **Role**: Software Developer
-- **Description**: A browser extension to organize and categorize your LinkedIn saved posts for better productivity and quick access.
-- **Technologies**: JavaScript.
-- **Features**: Categorize Content as saved posts are grouped into custom categories for better organization and offline access, as data stored locally for faster performance.
-
-### [MindReveal](https://github.com/ayaarragab/MindReveal-API)
-- **Role**: Backend Developer
-- **Description**: MindReveal API helps users organize their inner thoughts effortlessly, Where you transform complex ideas into structured insights.
-- **Technologies**: Node.js, Express.js, MongoDB, JWT for authentication.
-- **Features**: Includes user authentication, CRUD operations, and a unique voice-note feature for thoughts storage.
-
-### [Winku Knowledge Market Platform](https://github.com/ayaarragab/Winku-knowledge-market)
-- **Role**: Full Stack Developer
-- **Description**: A knowledge-sharing platform inspired by Quora and StackOverflow, where users can exchange expertise.
-- **Technologies**: HTML, CSS, BootStrap ,JavaScript, PHP, MySQL.
-- **Features**: Basic user authentication, Q&A mechanism, knowledge sharing.
-
-### [Simple Shell](https://github.com/ayaarragab/simple_shell)
-- **Role**: Developer
-- **Description**: A custom UNIX shell developed from scratch, capable of handling basic shell commands.
-- **Technologies**: C programming language.
-- **Skills Gained**: Memory management, process handling, and command parsing.
-
----
-## 📝 Featured Repositories
-
-- 🔥 **[MindReveal](https://github.com/ayaarragab/MindReveal-API)**
-- 📚 **[LinkedInSaves Browser Extension](https://github.com/ayaarragab/linkedin-saves-extension)**
+- 📧 **Email**: [AyaRagabSaleh@outlook.com](mailto:AyaRagabSaleh@outlook.com)  
+- 💼 **LinkedIn**: [Aya Ragab](https://www.linkedin.com/in/ayaragab/)  
+- 💻 **GitHub**: [ayaarragab](https://github.com/ayaarragab)  
+- 🏆 **LeetCode**: [ayaragab](https://leetcode.com/u/ayaragab/)  
 
 ---
 
-## 🚀 What Drives Me
-
-I'm inspired by the potential of software to **solve real-world problems** and am dedicated to continuous learning. My hands-on approach and experience through the ALX program have equipped me with a strong foundation in software development and a desire to always push the boundaries of what I know.
-
----
-
-## 📫 Let's Connect
-
-- **Email**: AyaRagabSaleh@outlook.com
-- **LinkedIn**: [Aya Ragab](https://www.linkedin.com/in/ayaragab/)
-
----
-
-I am actively looking for opportunities to collaborate on impactful projects and continue to grow in my career. Feel free to reach out!
+✨ *Actively looking for opportunities to collaborate on impactful projects and grow as a software engineer.*
 
 
