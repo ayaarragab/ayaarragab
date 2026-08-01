@@ -13,7 +13,7 @@ Software Engineer with hands-on experience building full-stack web applications 
 - 💼 Former Software Developer Intern at **Kanbro Corporation**
 - 🎓 B.Sc. Computer Science & Artificial Intelligence (CGPA: **3.5/4.0**)
 - 🎓 ALX Africa Software Engineering Graduate
-- 🌍 Based in Cairo, Egypt
+- 🌍 Based in Giza, Cairo, Egypt
 - 🚀 Currently building AI-powered and full-stack web applications
 
 ---
