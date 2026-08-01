@@ -14,8 +14,6 @@ Software Engineer with hands-on experience building full-stack web applications 
 - 🎓 B.Sc. Computer Science & Artificial Intelligence (CGPA: **3.5/4.0**)
 - 🎓 ALX Africa Software Engineering Graduate
 - 🌍 Based in Giza, Cairo, Egypt
-- 🚀 Currently building AI-powered and full-stack web applications
-
 ---
 
 # 💼 Experience
