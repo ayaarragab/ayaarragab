@@ -40,8 +40,7 @@ Software Engineer with hands-on experience building full-stack web applications 
 **Tech Stack**
 React • Node.js • Express.js • MySQL • Sequelize • Azure
 
-🔗 Live Demo | GitHub
-
+🔗 [Live Demo](https://ai-startup-idea-generator.netlify.app/) | [GitHub](https://github.com/ayaarragab/ai-startup-idea-generator)
 ---
 
 ## 🏫 ERP System – School Management Platform
@@ -69,7 +68,7 @@ React • Node.js • Express.js • MySQL • BullMQ
 
 React • Node.js • Express.js • MySQL
 
-🔗 GitHub
+[🔗 GitHub](https://github.com/ayaarragab/khotaa)
 
 ---
 
@@ -79,7 +78,7 @@ Browser extension for organizing LinkedIn saved posts with custom categories and
 
 Published on Firefox Add-ons Store.
 
-🔗 GitHub | Firefox Store
+[🔗 GitHub](https://github.com/ayaarragab/linkedin-saves-extension) | [Firefox Store](https://addons.mozilla.org/en-US/firefox/addon/linkedinsaves/)
 
 ---
 
@@ -125,12 +124,7 @@ Completed a rigorous project-based curriculum covering:
 
 📧 AyaRagabSaleh@outlook.com
 
-💼 LinkedIn
-
-💻 GitHub
-
-🏆 LeetCode
-
+[💼 LinkedIn](https://www.linkedin.com/in/ayaragab/)
 ---
 
 ⭐ I'm always excited to collaborate on meaningful software projects, contribute to open source, and continue growing as a software engineer.
