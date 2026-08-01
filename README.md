@@ -1,78 +1,138 @@
-# 🌟 Aya Ragab | Software Engineer & Problem Solver
+# 🌟 Aya Ragab | Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayaragab/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ayaarragab) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayaragab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ayaarragab)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/ayaragab/)
 
 ---
 
 ## 👩‍💻 About Me
-Passionate software engineer with strong fundamentals in **backend web development**, proficient in **JavaScript, Node.js**, and skilled in solving complex problems.  
-I thrive in **hands-on, project-based environments**, combining problem-solving, clean coding, and teamwork to build **scalable, real-world solutions**.  
 
-- 🎓 **Computer Science & AI Student** at Helwan University (CGPA: 3.5 / 4.0)  
-- 🎓 **Alumni** of ALX Africa Software Engineering Program  
-- 💼 Ex-intern at **Kanbro Corporation** – focused on ERP scalability & backend optimization  
+Software Engineer with hands-on experience building full-stack web applications using **JavaScript, React, Node.js, and REST APIs**. Passionate about solving real-world problems through scalable software, clean architecture, and continuous learning.
+
+- 💼 Former Software Developer Intern at **Kanbro Corporation**
+- 🎓 B.Sc. Computer Science & Artificial Intelligence (CGPA: **3.5/4.0**)
+- 🎓 ALX Africa Software Engineering Graduate
 - 🌍 Based in Cairo, Egypt
+- 🚀 Currently building AI-powered and full-stack web applications
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### **Software Developer – Kanbro Corporation**  
-*06/2025 – 09/2025 | Karnataka, India* (Internship)  
+## Software Developer – Kanbro Corporation
+**06/2025 – 09/2025 | Remote**
 
-- Scaled ERP system to support multi-branch operations with **role-based access control**.  
-- Improved backend performance by **50%**, reduced **P95 latency by 52%**, and cut max latency by **90%+**.  
-- Conducted **load testing** with Grafana v6.  
-- Built ERP Finance module: **Excel import/export for fee arrears & transactions** with discount automation.  
-- Developed **file management module** with BullMQ compression pipelines, reducing storage usage.  
+- Helped scale an enterprise ERP system to support **multi-branch operations** with dynamic role-based access control.
+- Developed and maintained **full-stack ERP features** using JavaScript, React, and Node.js.
+- Conducted load testing and performance optimization using **Grafana v6**, improving login performance by **50%**, reducing **P95 latency by 52%**, and cutting maximum latency by **90%+**.
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### [ERP System – School Management Platform](#) *(Internship Project)*  
-- Refactored MERN-based ERP codebase (70+ files), improved scalability and reduced redundancy.  
-- Automated ERP monitoring with **Cron jobs**, ensuring 100% daily consistency.  
+## 🚀 Fakarnalk (Graduation Project)
 
-### [LinkedInSaves](https://github.com/ayaarragab/linkedin-saves-extension)  
-- **Role**: Software Developer  
-- Browser extension for **organizing LinkedIn saved posts** with custom categories & offline access.  
-- Published on **Firefox Add-ons Store** [🔗](https://addons.mozilla.org/en-US/firefox/addon/linkedinsaves/).  
----
+**AI-powered Startup Idea Generator**
 
----
-## 🛠️ Technical Skills
+- Built scalable backend services using **Node.js, Express.js, MySQL, and Sequelize ORM**.
+- Developed secure REST APIs and integrated them with a React frontend.
+- Implemented **JWT, Passport.js, OAuth2 authentication**, Paymob payment integration, and deployed using **Azure, Netlify, and Aiven MySQL**.
 
-| **Category**              | **Skills** |
-|---------------------------|------------|
-| **Languages**             | C, Python, JavaScript, PHP |
-| **Backend Development**   | Node.js, Express.js, RESTful APIs, Flask |
-| **Frontend Basics**       | React, Tailwind, HTML, CSS, Bootstrap |
-| **Databases**             | MySQL, MongoDB, SQLite, SQL Server, Oracle SQL |
-| **Tools & DevOps**        | Git, GitHub, VS Code, Ubuntu, Bash/Shell, Debugging, OOP, Unit Testing |
-| **Other Skills**          | Problem-Solving, Troubleshooting, System Design Basics |
+**Tech Stack**
+React • Node.js • Express.js • MySQL • Sequelize • Azure
 
----
-## 🎓 Education
-
-- **BSc. Computer Science & Artificial Intelligence**, Helwan University (2022 – 2026)  
-  - Relevant Courses: Data Structures, Algorithms, OOP, Databases, Distributed Systems, Cloud Computing (AWS).  
-- **ALX Africa – Software Engineering Programme** (2023 – 2024)  
-  - Full-Stack Web Development, project-based curriculum, debugging, code reviews, peer learning.  
+🔗 Live Demo | GitHub
 
 ---
 
-## 📫 Connect with Me
+## 🏫 ERP System – School Management Platform
 
-- 📧 **Email**: [AyaRagabSaleh@outlook.com](mailto:AyaRagabSaleh@outlook.com)  
-- 💼 **LinkedIn**: [Aya Ragab](https://www.linkedin.com/in/ayaragab/)  
-- 💻 **GitHub**: [ayaarragab](https://github.com/ayaarragab)  
-- 🏆 **LeetCode**: [ayaragab](https://leetcode.com/u/ayaragab/)  
+**Full-Stack ERP for an International School**
+
+- Developed finance workflows, transaction processing, and Excel import/export features.
+- Built backend file management services using **BullMQ**.
+- Automated monitoring with **Cron Jobs** to improve system reliability.
+
+**Tech Stack**
+
+React • Node.js • Express.js • MySQL • BullMQ
 
 ---
 
-✨ *Actively looking for opportunities to collaborate on impactful projects and grow as a software engineer.*
+## 🌱 Khotaa
 
+**Personal Growth Platform**
 
+- Built a full-stack web application enabling users to document internships, courses, and personal projects.
+- Developed REST APIs, authentication, journey management, and responsive user interfaces.
+
+**Tech Stack**
+
+React • Node.js • Express.js • MySQL
+
+🔗 GitHub
+
+---
+
+## 🔖 LinkedInSaves
+
+Browser extension for organizing LinkedIn saved posts with custom categories and offline access.
+
+Published on Firefox Add-ons Store.
+
+🔗 GitHub | Firefox Store
+
+---
+
+# 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, Python, C |
+| **Frontend** | React, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases** | MySQL, MongoDB |
+| **Authentication** | JWT, Passport.js, OAuth2 |
+| **Cloud & Deployment** | Azure, Netlify, Aiven MySQL |
+| **Tools** | Git, GitHub, Linux, Ubuntu, BullMQ, Cron Jobs, Grafana |
+| **Practices** | Debugging, Performance Optimization, OOP, Clean Code |
+
+---
+
+# 🎓 Education
+
+### B.Sc. Computer Science & Artificial Intelligence
+**Capital University (formerly Helwan University)**
+
+CGPA: **3.5 / 4.0**
+
+---
+
+### ALX Africa – Software Engineering Program
+
+Completed a rigorous project-based curriculum covering:
+
+- Full-Stack Development
+- APIs
+- Databases
+- OOP
+- Data Structures & Algorithms
+- Git & Collaboration
+- Software Engineering Best Practices
+
+---
+
+# 📫 Connect with Me
+
+📧 AyaRagabSaleh@outlook.com
+
+💼 LinkedIn
+
+💻 GitHub
+
+🏆 LeetCode
+
+---
+
+⭐ I'm always excited to collaborate on meaningful software projects, contribute to open source, and continue growing as a software engineer.
