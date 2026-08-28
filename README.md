@@ -29,20 +29,6 @@ Software Engineer with hands-on experience building full-stack web applications 
 
 # 🚀 Projects
 
-## 🚀 Fakarnalk (Graduation Project)
-
-**AI-powered Startup Idea Generator**
-
-- Built scalable backend services using **Node.js, Express.js, MySQL, and Sequelize ORM**.
-- Developed secure REST APIs and integrated them with a React frontend.
-- Implemented **JWT, Passport.js, OAuth2 authentication**, Paymob payment integration, and deployed using **Azure, Netlify, and Aiven MySQL**.
-
-**Tech Stack**
-React • Node.js • Express.js • MySQL • Sequelize • Azure
-
-🔗 [Live Demo](https://ai-startup-idea-generator.netlify.app/) | [GitHub](https://github.com/ayaarragab/ai-startup-idea-generator)
----
-
 ## 🏫 ERP System – School Management Platform
 
 **Full-Stack ERP for an International School**
