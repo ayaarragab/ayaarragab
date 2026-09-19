@@ -37,6 +37,7 @@ Software Engineer with hands-on experience building full-stack web applications 
 - Developed secure REST APIs and integrated them with a React frontend.
 - Implemented **JWT, Passport.js, OAuth2 authentication**, Paymob payment integration, and deployed using **Azure, Vercel, and Aiven MySQL**.
 🔗 [Live Demo](https://ai-startup-idea-generator-mauve.vercel.app/) | [GitHub](https://github.com/ayaarragab/ai-startup-idea-generator)
+
 **Tech Stack**
 React • Node.js • Express.js • MySQL • Sequelize • Azure
 
